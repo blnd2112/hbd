@@ -26,8 +26,18 @@ footer:after {
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 st.title("Happy Birthday Bnaw")
-
-
+st.write("Happy Birthday Bnaw")
+st.write("Happy Birthday Bnaw")
+st.write("Happy Birthday Bnaw")
+st.write("Happy Birthday Bnaw")
+st.write("Happy Birthday Bnaw")
+st.write("Happy Birthday Bnaw")
+st.write("Happy Birthday Bnaw")
+st.write("Happy Birthday Bnaw")
+st.write("Happy Birthday Bnaw")
+st.write("Happy Birthday Bnaw")
+st.write("Happy Birthday Bnaw")
+st.write("Happy Birthday Bnaw")
 while True:
     st.balloons()
     time.sleep(.8)
