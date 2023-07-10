@@ -1,5 +1,5 @@
 import streamlit as st
-import pygame
+
 import time
 st.set_page_config(page_title="HAPPY BIRTHDAY", initial_sidebar_state="expanded")
 
