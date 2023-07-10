@@ -29,6 +29,11 @@ st.title("Happy Birthday Bnaw")
 st.title("Happy Birthday Bnaw")
 st.title("Happy Birthday Bnaw")
 st.title("Happy Birthday Bnaw")
+st.title("Happy Birthday Bnaw")
+st.title("Happy Birthday Bnaw")
+st.title("Happy Birthday Bnaw")
+st.title("Happy Birthday Bnaw")
+
 while True:
     st.balloons()
     time.sleep(.8)
