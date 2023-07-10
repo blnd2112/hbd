@@ -30,5 +30,5 @@ st.title("Happy Birthday!")
 
 while True:
     st.balloons()
-    time.sleep(.1)
+    time.sleep(.8)
 
