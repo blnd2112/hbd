@@ -25,7 +25,7 @@ footer:after {
             """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
-st.title("Happy Birthday!")
+st.title("Happy Birthday Bnaw")
 
 
 while True:
